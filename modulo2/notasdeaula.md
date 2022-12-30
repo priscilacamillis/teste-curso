@@ -7,3 +7,9 @@
 ## git add (caminho do arquivo) - adiciona um arquivo em específico
 
 ## commit - registro de um statu do código -  contém as alterações, quem as realizou e quando  - tem um cógido único que indica ele commit - pode reverter algum commit por meio desse código
+
+
+
+
+
+
